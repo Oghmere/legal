@@ -63,9 +63,13 @@ For copyright notices, see the DMCA policy. For abuse reports, **abuse@oghmere.c
 
 ## Using this text
 
-See [`NOTICE.md`](NOTICE.md). In short: read it, quote it, archive it. Do not adopt it as your own
-terms, and do not put our name on an altered copy — these documents describe one company's
-obligations under British Columbia law, not yours.
+The documents are licensed **CC BY-ND 4.0** ([`LICENSE`](LICENSE)) — copy and redistribute them
+freely, unaltered and with credit. The licence covers copyright in the text only and grants no
+rights in our names or marks.
+
+Read [`NOTICE.md`](NOTICE.md) before reusing anything. In short: read it, quote it, archive it. Do
+not adopt it as your own terms, and do not put our name on an altered copy — these documents
+describe one company's obligations under British Columbia law, not yours.
 
 ## Current status
 
