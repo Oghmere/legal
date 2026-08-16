@@ -61,6 +61,12 @@ reaches a person; a pull request would not.
 
 For copyright notices, see the DMCA policy. For abuse reports, **abuse@oghmere.com**.
 
+## Using this text
+
+See [`NOTICE.md`](NOTICE.md). In short: read it, quote it, archive it. Do not adopt it as your own
+terms, and do not put our name on an altered copy — these documents describe one company's
+obligations under British Columbia law, not yours.
+
 ## Current status
 
 These documents carry a **"Beta — pending legal review"** banner. That banner is accurate and is
