@@ -1,0 +1,5 @@
+# The diff is the product. Normalise to LF so a publisher on Windows cannot
+# introduce a whole-file line-ending change that reads as a legal-text rewrite.
+* text=auto eol=lf
+*.md text eol=lf
+*.json text eol=lf
