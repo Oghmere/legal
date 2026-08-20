@@ -10,6 +10,8 @@ You own everything you write and everything the AI helps you create. We don't cl
 ### 🚫 We won't sell it or train on it
 We don't sell your content, and we never use it to train any AI model — ours or anyone else's.
 
+**One exception — the research feature.** If you turn on research, the text you type *into it* is sent to a third-party web-search provider (Tavily) whose terms let them **use and train AI on** what they receive. This applies **only** to what you submit to research — it's opt-in, you can turn it off, and it **never** changes anything else: your manuscripts, coaching, drafting, and everything else stay fully covered by the promise above.
+
 ### 🔗 You decide what's public
 Sharing only happens when you choose it. You control who sees what, and you can turn sharing off anytime.
 

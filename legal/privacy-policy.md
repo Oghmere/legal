@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Effective date:** 2026-07-31
-**Last updated:** 2026-07-31
+**Last updated:** 2026-08-20
 
 > ⚠️ **Beta — pending legal review.** This document is a draft provided for transparency during our beta. It is under review by legal counsel and may change before general availability.
 
@@ -18,7 +18,7 @@ We handle personal information in accordance with British Columbia's **Personal 
 - **What we collect:** your account details, the content you create, payment info (handled by Stripe), and usage/log data. *(§2)*
 - **Optional writing-activity tracking:** if you turn it on, we record *how* you write — session times, word counts, streaks — to power your private progress dashboard. It's **off unless you enable it**, we never store what you wrote, and you can turn it off and delete the data anytime. *(§2g)*
 - **Why:** to run the Service, process your content with AI when you ask, handle payments, support you, and keep things secure. *(§3)*
-- **We don't sell your data**, and we never use your content to train any AI model — ours or anyone else's. *(§3)*
+- **We don't sell your data**, and we never use your content to train any AI model — ours or anyone else's. The one exception is the optional research/search feature: text you submit *to it* goes to a third-party search provider (Tavily) that may train on it — opt-in only, and it changes nothing for the rest of your content. *(§3, §5)*
 - **AI processing:** content you run through AI features goes to providers like Anthropic and Google, which may process it in the United States. *(§4, §6)*
 - **Who sees it:** only providers that operate the Service for us, whoever you choose to share with, and authorities where the law requires. *(§5)*
 - **Where it lives:** stored and processed in Canada, the U.S., and other countries where our providers operate. *(§6)*
@@ -80,6 +80,12 @@ Under PIPA, we collect, use, and disclose personal information for purposes a re
 
 We rely primarily on your consent, on the necessity of processing to provide a service you have requested, and on our legitimate operational and security needs, as permitted by PIPA. **We do not sell your personal information, and we do not use Your Content to train any AI model — ours or anyone else's.**
 
+**One bounded exception — the research/search surface.** The optional research feature works by sending what you type into it to a **third-party web-search provider** (AlphaAI Technologies Inc. dba Tavily — see Section 5) whose terms permit it to **use and train AI models on** the text it receives. Three things about this exception matter, and all three are true at once:
+
+   - **What happens:** the text you submit *to research* is sent to that provider, and its terms allow it to use and train on that text. We cannot promise otherwise for content sent to it.
+   - **How narrow it is:** this applies **only** to the research/search surface, and **only** to what you submit to it. Research is off unless you choose it, each use is under its own express, logged consent, and you can revoke that consent at any time.
+   - **What it does not touch:** using research **does not change** the training or data-use position for anything else. Your manuscripts, notes, coaching, drafting, voice, and every other feature remain covered by the unqualified promise above — we do not use them to train any AI model, and choosing to use research never weakens that guarantee over the rest of Your Content.
+
 ## 4. AI processing of Your Content
 
 Certain features send Your Content (such as manuscripts, notes, and prompts) to **third-party AI providers** so they can generate coaching, feedback, or other AI output at your request. This means:
@@ -114,8 +120,11 @@ We disclose personal information only as described here:
 | **Cloudflare** | Content delivery, email receiving, security | Global |
 | **Resend** | Transactional email delivery | United States |
 | **Axiom** | Application logging and diagnostics | United States |
+| **AlphaAI Technologies Inc. dba Tavily** | Web search for the research features | United States |
 
 We may update this list as our providers change; the current list will be maintained in this Policy.
+
+> ⚠️ **Data-use position of the research/search provider (Tavily).** Unlike the other providers above — which we select for terms that limit their use of submitted content to providing the service — **AlphaAI Technologies Inc. dba Tavily** (New York, United States) reserves broader rights over what is submitted to it. Its Terms of Service **§6.5** permit Tavily to use Customer Input to **train, improve and develop AI models**, and **§9.2** grants Tavily a **perpetual, irrevocable licence** covering derivative works and the improvement of its other products; its privacy policy states that query data may be used to improve future responses. Neither document draws a distinction between free and paid plans, so upgrading a plan does not change this. This is why research is a separate, opt-in surface with its own express, revocable consent (Section 3): it is the one place where text you submit may be used to train AI.
 
 **b. Sharing at your direction.** When you use publishing, sharing, or export features, we disclose the relevant Content to the destinations or audiences you choose.
 

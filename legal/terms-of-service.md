@@ -1,7 +1,7 @@
 # Terms of Service
 
 **Effective date:** 2026-08-16
-**Last updated:** 2026-08-16
+**Last updated:** 2026-08-20
 
 > ⚠️ **Beta — pending legal review.** This document is a draft provided for transparency during our beta. It is under review by legal counsel and may change before general availability.
 
@@ -19,7 +19,7 @@ The Terms govern your access to and use of the Oghmere platform, including our w
 
 - **Your work is yours.** You keep full ownership of your content and of anything the AI generates for you. We claim no ownership. *(§3)*
 - **We take only what we need to run the Service.** A narrow, revocable permission to host your content, process it with AI when you ask, and publish or share it — **only when you tell us to.** *(§3.2–3.4)*
-- **We won't sell your content, or use it to train any AI model** — ours or anyone else's. *(§3.3)*
+- **We won't sell your content, or use it to train any AI model** — ours or anyone else's. The one exception is the optional research/search feature: text you submit *to it* goes to a third-party search provider that may train on it — opt-in only, and it changes nothing for the rest of Your Content. *(§3.3)*
 - **You control what's public.** Sharing and distribution happen only at your direction, and you can turn them off. *(§3.4)*
 - **AI can be wrong.** Review AI output before relying on or publishing it — it isn't professional advice. *(§5)*
 - **Play fair.** Don't upload illegal or infringing content, or abuse the Service or Credits. *(§4)*
@@ -64,6 +64,8 @@ The Terms govern your access to and use of the Oghmere platform, including our w
    - does **not** permit us to sell Your Content, license it to unrelated third parties for their own purposes, or use it to build or train any AI model — whether ours or anyone else's;
    - continues only for as long as Your Content remains on the Service (plus a limited period for backups and legal compliance as described in the Privacy Policy); and
    - is sublicensable **only** to our Third-Party Services acting on our behalf, and only to the extent needed to deliver the features you use.
+
+**One bounded exception — the research/search surface.** The optional research feature works by sending the text you submit *to it* to a **third-party web-search provider** (identified in the Privacy Policy) whose terms permit that provider to **use and train AI models on** what it receives. This exception is limited to what you submit to the research/search surface and to that surface alone; it is off unless you choose it, and it operates under a separate, express, revocable consent. It **does not** enlarge the licence above for any other Content or feature: your manuscripts and all other Your Content remain subject to the limits in this Section — we do not sell them, license them to unrelated third parties for their own purposes, or use them to build or train any AI model, whether ours or anyone else's — and using research never weakens that position over the rest of Your Content.
 
 3.4 **Publishing and sharing on your behalf.** Some features let you make Your Content publicly accessible (for example, share pages or links) or send it to third-party platforms. When you use these features, you authorize us to publish, transmit, and display the relevant Content as directed. **You control what is shared, with whom, and for how long**, and you can revoke public access using the controls we provide. You are responsible for ensuring you have the rights to publish and distribute anything you make public.
 
