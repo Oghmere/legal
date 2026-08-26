@@ -1,7 +1,7 @@
 # Acceptable Use & AI Policy
 
-**Effective date:** 2026-07-17
-**Last updated:** 2026-07-17
+**Effective date:** 2026-08-26
+**Last updated:** 2026-08-26
 
 > ⚠️ **Beta — pending legal review.** This document is a draft provided for transparency during our beta. It is under review by legal counsel and may change before general availability.
 
@@ -47,13 +47,19 @@ Because our AI features rely on third-party AI models, you additionally agree th
 
 **Human accountability.** You are responsible for reviewing AI Output before you rely on it, share it, or publish it, and for ensuring it is accurate, lawful, and appropriate for your use.
 
-## 4. Fair use of Credits and resources
+## 4. Fair use of Credits, storage, and resources
 
 You agree not to:
 
-   (a) circumvent, or attempt to circumvent, Credit limits, rate limits, or anti-abuse controls;
-   (b) create multiple accounts, or use automated means, to obtain additional free Credits or evade limits; or
+   (a) circumvent, or attempt to circumvent, Credit limits, rate limits, storage or project limits, or anti-abuse controls;
+   (b) create multiple accounts, or use automated means, to obtain additional free Credits or storage, or to evade limits; or
    (c) impose an unreasonable or disproportionately large load on the Service.
+
+4.1 **Plan limits.** Each plan includes a maximum number of projects and a maximum amount of stored data. The limits in effect for each plan are published on our pricing page and may change on a prospective basis (Terms Section 6.5). Stored data means everything your account holds, including your documents, their revision history, and any file you upload or generate.
+
+4.2 **At the limit.** When an account reaches its storage or project limit, the account keeps working and nothing is deleted: you can still write, edit, export, and publish. What stops is growth — no new projects and no new uploads — until you remove data you no longer need or move to a plan with a higher limit. The same applies if you move to a smaller plan while above its limit.
+
+4.3 **No scheduled deletion today.** We do not currently delete Your Content on a schedule to reclaim storage, and we do not trim your revision history to save space. Your Content is removed when you ask us to remove it, with the single standing exception of dormant accounts (Terms Section 8.4). We may introduce retention limits in the future; if we do, we will give reasonable advance notice under Terms Section 14, and any limit will apply prospectively so that you have the opportunity to export Your Content or change plans before it takes effect.
 
 We may apply per-account limits and anti-abuse measures, and may throttle or suspend activity that threatens the Service or other users.
 

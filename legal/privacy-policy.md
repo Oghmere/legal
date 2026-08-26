@@ -1,7 +1,7 @@
 # Privacy Policy
 
-**Effective date:** 2026-07-31
-**Last updated:** 2026-08-20
+**Effective date:** 2026-08-26
+**Last updated:** 2026-08-26
 
 > ⚠️ **Beta — pending legal review.** This document is a draft provided for transparency during our beta. It is under review by legal counsel and may change before general availability.
 
@@ -138,7 +138,7 @@ Your personal information, including Your Content, may be stored and processed *
 
 ## 7. Retention
 
-We retain personal information only as long as necessary for the purposes described in this Policy, to provide the Service, and to meet legal, accounting, and security requirements. When you delete Your Content or your account, we will delete or de-identify the associated personal information within a reasonable period, except that residual copies may persist in encrypted backups for a limited time and information may be retained where required by law or to resolve disputes and enforce our agreements. If you turn off writing-activity tracking (Section 2g), we stop collecting it and can delete the writing-activity data already gathered for you.
+We retain personal information only as long as necessary for the purposes described in this Policy, to provide the Service, and to meet legal, accounting, and security requirements. When you delete Your Content or your account, we will delete or de-identify the associated personal information within a reasonable period, except that residual copies may persist in encrypted backups for a limited time and information may be retained where required by law or to resolve disputes and enforce our agreements. If you turn off writing-activity tracking (Section 2g), we stop collecting it and can delete the writing-activity data already gathered for you. We also close and delete accounts that have been **inactive for two years**, after making at least three attempts to reach you at the email address on the account, as described in Terms Section 8.4. Apart from that, we do not currently delete Your Content on a schedule to reclaim storage; it is removed when you ask us to remove it. We may introduce retention limits in the future, on reasonable advance notice and applying only going forward.
 
 ## 8. Security
 

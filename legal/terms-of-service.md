@@ -1,7 +1,7 @@
 # Terms of Service
 
-**Effective date:** 2026-08-16
-**Last updated:** 2026-08-20
+**Effective date:** 2026-08-26
+**Last updated:** 2026-08-26
 
 > ⚠️ **Beta — pending legal review.** This document is a draft provided for transparency during our beta. It is under review by legal counsel and may change before general availability.
 
@@ -23,6 +23,8 @@ The Terms govern your access to and use of the Oghmere platform, including our w
 - **You control what's public.** Sharing and distribution happen only at your direction, and you can turn them off. *(§3.4)*
 - **AI can be wrong.** Review AI output before relying on or publishing it — it isn't professional advice. *(§5)*
 - **Play fair.** Don't upload illegal or infringing content, or abuse the Service or Credits. *(§4)*
+- **Plans have limits.** Each plan caps how many projects you can have and how much you can store; the current limits are on our pricing page. At the limit your account keeps working and nothing is deleted — it just stops growing. *(§7, AUP §4)*
+- **We don't delete your work on a schedule.** There is no retention window today, and we don't trim your revision history to save space. If that ever changes we'll give you notice in advance and it will only apply going forward. An account left unused for two years is the one standing exception — we'll email you at least three times first. *(§8.4, §14, AUP §4)*
 - **Payments.** Paid Credits go through Stripe and are non-refundable except where BC/Canadian consumer law requires. There's a free tier with signup Credits. *(§6)*
 - **Age 13+.** If you're under the age of majority (19 in BC), you need a parent or guardian's consent. *(§2.1)*
 - **BC law governs**, with disputes heard in Vancouver, British Columbia. *(§13)*
@@ -117,7 +119,7 @@ We may investigate suspected violations and take appropriate action, including r
 
 ## 7. Service availability and changes
 
-We may modify, suspend, or discontinue any part of the Service at any time. We aim to provide reasonable notice of material changes but do not guarantee uninterrupted or error-free availability. We may impose usage limits to protect the Service and its users.
+We may modify, suspend, or discontinue any part of the Service at any time. We aim to provide reasonable notice of material changes but do not guarantee uninterrupted or error-free availability. We may impose usage limits to protect the Service and its users, including per-plan limits on the number of projects you may create and the amount of data you may store. The limits in effect for each plan are published on our pricing page and may change on a prospective basis under Section 6.5; the [Acceptable Use & AI Policy](./acceptable-use-policy.md) describes how they apply and what happens when an account reaches a limit.
 
 ## 8. Suspension and termination
 
@@ -126,6 +128,8 @@ We may modify, suspend, or discontinue any part of the Service at any time. We a
 8.2 **By us.** We may suspend or terminate your access, with or without notice, if you breach these Terms, if required by law, to protect the Service or other users, or if we discontinue the Service. Where practical and lawful, we will give you notice and an opportunity to export Your Content.
 
 8.3 **Effect.** On termination, your licence to use the Service ends. We will handle Your Content in accordance with the Privacy Policy, including deletion and backup-retention practices described there.
+
+8.4 **Dormant accounts.** If an account has been inactive for **two (2) years** — no sign-in and no other use of the Service — we may close it and delete Your Content stored in it. Before we do, we will make **at least three attempts** to reach you at the email address on the account, over a period of at least 60 days, telling you how to keep the account and how to export Your Content, and we will not delete anything sooner than 30 days after the final notice. Signing in at any time before deletion cancels it. Apart from this and from deletion you ask us for, we do not currently delete Your Content, or trim your revision history, on any schedule to reclaim storage. We may introduce retention limits in the future; if we do, we will give reasonable advance notice under Section 14, and any limit will apply prospectively so that you have the opportunity to export Your Content or change plans before it takes effect (AUP Section 4.3).
 
 ## 9. Disclaimers
 

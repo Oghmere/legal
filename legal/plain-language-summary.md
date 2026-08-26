@@ -21,6 +21,9 @@ When you use AI features, your content is sent to trusted AI providers (like Ant
 ### 🔒 Your privacy
 We collect your account info, the content you create, payment details (through Stripe), and basic usage data — to run the Service, support you, and keep it secure. You can access, correct, or delete your information, or withdraw consent, anytime by contacting our Privacy Officer. We follow BC's privacy law (PIPA) and Canada's PIPEDA.
 
+### 🗄️ Your work stays put
+We don't delete your writing on a schedule today, and we don't trim your revision history to save space — your work goes when *you* say so. Each plan has a limit on projects and storage; if you reach it, nothing is deleted, your account just stops growing until you free up space or move to a bigger plan. Two things to know: if you don't sign in for **two years** we'll email you at least three times and then close the account, and if we ever do need retention limits we'll tell you well in advance and they'll only apply going forward.
+
 ### 📈 Progress tracking is optional
 Want to see your writing streaks and stats? You can turn on writing-activity tracking to power a private progress dashboard. It's **off unless you switch it on**, we only measure *how* you write (times, word counts, streaks) — never *what* you wrote — and you can turn it off and delete the data whenever you like.
 
