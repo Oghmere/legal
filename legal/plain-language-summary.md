@@ -24,8 +24,8 @@ We collect your account info, the content you create, payment details (through S
 ### 🗄️ Your work stays put
 We don't delete your writing on a schedule today, and we don't trim your revision history to save space — your work goes when *you* say so. Each plan has a limit on projects and storage; if you reach it, nothing is deleted, your account just stops growing until you free up space or move to a bigger plan. Two things to know: if you don't sign in for **two years** we'll email you at least three times and then close the account, and if we ever do need retention limits we'll tell you well in advance and they'll only apply going forward.
 
-### 📈 Progress tracking is optional
-Want to see your writing streaks and stats? You can turn on writing-activity tracking to power a private progress dashboard. It's **off unless you switch it on**, we only measure *how* you write (times, word counts, streaks) — never *what* you wrote — and you can turn it off and delete the data whenever you like.
+### 📈 We record how you write — never what you write
+Oghmere keeps a private record of *how* you work: when you write, in what bursts, and how text arrived in a document (typed, pasted, imported). It powers your streaks and stats, and the Provenance tab that shows how each document was built. **We never record the words themselves.** It's **on by default**, it's yours — export it or delete it anytime — and you can switch it off for your whole account or for a single project. Turn it off and it stays off.
 
 ### 💳 Credits & payments
 Some AI features use Credits. There's a free tier to start. Paid Credits go through Stripe and are non-refundable, except where BC or Canadian consumer law says otherwise.
