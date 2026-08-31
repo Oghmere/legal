@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective date:** 2026-08-26
+**Effective date:** 2026-08-31
 **Last updated:** 2026-08-26
 
 > ⚠️ **Beta — pending legal review.** This document is a draft provided for transparency during our beta. It is under review by legal counsel and may change before general availability.
