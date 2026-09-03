@@ -21,6 +21,8 @@ When you use AI features, your content is sent to trusted AI providers (like Ant
 ### 🔒 Your privacy
 We collect your account info, the content you create, payment details (through Stripe), and basic usage data — to run the Service, support you, and keep it secure. You can access, correct, or delete your information, or withdraw consent, anytime by contacting our Privacy Officer. We follow BC's privacy law (PIPA) and Canada's PIPEDA.
 
+We also measure **how the Service gets used** — pages viewed, features opened, whether a prompt was acted on — so we can see what works and what doesn't. Our public website does this with **no cookie and no identifier**; in the app it's tied to a pseudonymous account id, never your name or email, and **never your writing**. No ads, no ad networks, no cross-site tracking.
+
 ### 🗄️ Your work stays put
 We don't delete your writing on a schedule today, and we don't trim your revision history to save space — your work goes when *you* say so. Each plan has a limit on projects and storage; if you reach it, nothing is deleted, your account just stops growing until you free up space or move to a bigger plan. Two things to know: if you don't sign in for **two years** we'll email you at least three times and then close the account, and if we ever do need retention limits we'll tell you well in advance and they'll only apply going forward.
 

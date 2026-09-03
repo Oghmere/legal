@@ -1,7 +1,7 @@
 # Terms of Service
 
-**Effective date:** 2026-08-26
-**Last updated:** 2026-08-26
+**Effective date:** 2026-09-02
+**Last updated:** 2026-09-02
 
 > ⚠️ **Beta — pending legal review.** This document is a draft provided for transparency during our beta. It is under review by legal counsel and may change before general availability.
 
@@ -21,6 +21,7 @@ The Terms govern your access to and use of the Oghmere platform, including our w
 - **We take only what we need to run the Service.** A narrow, revocable permission to host your content, process it with AI when you ask, and publish or share it — **only when you tell us to.** *(§3.2–3.4)*
 - **We won't sell your content, or use it to train any AI model** — ours or anyone else's. The one exception is the optional research/search feature: text you submit *to it* goes to a third-party search provider that may train on it — opt-in only, and it changes nothing for the rest of Your Content. *(§3.3)*
 - **You control what's public.** Sharing and distribution happen only at your direction, and you can turn them off. *(§3.4)*
+- **We measure how the Service is used** — pages and features opened, whether a prompt was acted on — to operate and improve it. No advertising, no selling your data, no tracking you across other companies' sites. *(§12.1, Privacy §2h/§9)*
 - **AI can be wrong.** Review AI output before relying on or publishing it — it isn't professional advice. *(§5)*
 - **Play fair.** Don't upload illegal or infringing content, or abuse the Service or Credits. *(§4)*
 - **Plans have limits.** Each plan caps how many projects you can have and how much you can store; the current limits are on our pricing page. At the limit your account keeps working and nothing is deleted — it just stops growing. *(§7, AUP §4)*
@@ -38,7 +39,7 @@ The Terms govern your access to and use of the Oghmere platform, including our w
 - **"Your Content"** means Content that you provide to, or create using, the Service.
 - **"AI Output"** means Content generated or derived by artificial-intelligence models made available through the Service in response to Your Content or your instructions.
 - **"Credits"** means the prepaid units used to access certain paid, inference-based features of the Service.
-- **"Third-Party Services"** means services, infrastructure, and AI providers we rely on to operate the Service, as described in our Privacy Policy.
+- **"Third-Party Services"** means the services, infrastructure, analytics, and AI providers we rely on to operate the Service, as described in our Privacy Policy.
 
 ## 2. Eligibility and accounts
 
@@ -150,6 +151,8 @@ You agree to indemnify and hold harmless Oghmere and its directors, officers, em
 ## 12. Third-party services
 
 The Service relies on and may link to Third-Party Services (including hosting, database, AI, payment, email, and analytics providers described in the Privacy Policy). We are not responsible for third-party services, and your use of them may be subject to their own terms.
+
+12.1 **Measurement.** We measure how the Service is used — which pages and features are opened, and whether something we showed you was acted on — so that we can operate and improve it. **We do not use your information for third-party advertising, we do not sell it, and we do not track you across other companies' websites.** Our public website performs this measurement without setting any analytics cookie or identifier. What is collected, by whom, and how to opt out are described in **Privacy Policy Section 2h and Section 9**.
 
 ## 13. Governing law and disputes
 

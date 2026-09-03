@@ -1,7 +1,7 @@
 # Privacy Policy
 
-**Effective date:** 2026-08-31
-**Last updated:** 2026-08-26
+**Effective date:** 2026-09-02
+**Last updated:** 2026-09-02
 
 > ⚠️ **Beta — pending legal review.** This document is a draft provided for transparency during our beta. It is under review by legal counsel and may change before general availability.
 
@@ -17,6 +17,7 @@ We handle personal information in accordance with British Columbia's **Personal 
 
 - **What we collect:** your account details, the content you create, payment info (handled by Stripe), and usage/log data. *(§2)*
 - **Writing-activity and document-lineage tracking:** we record *how* you write — session times, word counts, streaks, and how text arrived in a document (typed, pasted, imported) — to power your private progress dashboard and the record of how each document was built. It is **on by default and you can switch it off** for your whole account or for one project; **we never store what you wrote**, and you can export or delete the data anytime. *(§2g)*
+- **Product analytics:** we measure how the Service is used — pages viewed, features used, whether a prompt was shown and acted on. On our public website this is done with **no cookie and no identifier at all**; in the app it is tied to a pseudonymous account id — never your name or email, and never your content. No ads, no ad networks, no cross-site tracking. *(§2h, §9)*
 - **Why:** to run the Service, process your content with AI when you ask, handle payments, support you, and keep things secure. *(§3)*
 - **We don't sell your data**, and we never use your content to train any AI model — ours or anyone else's. The one exception is the optional research/search feature: text you submit *to it* goes to a third-party search provider (Tavily) that may train on it — opt-in only, and it changes nothing for the rest of your content. *(§3, §5)*
 - **AI processing:** content you run through AI features goes to providers like Anthropic and Google, which may process it in the United States. *(§4, §6)*
@@ -66,6 +67,13 @@ We collect personal information that you provide, that is generated as you use t
    - **What we do *not* collect:** we **never store the text you wrote.** No manuscript content, sentences, or characters of Your Content are written to this data — only the numeric and timing measurements above.
    - **Why we collect it:** solely to compute and display **your own** progress, writing habits, and the record of how your own documents were built, back to you. It is **not** used for advertising, is **not** sold, is **not** used to train AI models, is **not** shared with other users, and is **never** used to judge, flag, rank, price or report you. We do not treat any of it as evidence about you; it is a record we keep on your behalf and that you control.
    - **Your control:** it stays private to your account and is protected by row-level access controls so that only you can see it. You can turn it off for your **whole account**, or for an **individual project** — useful when one piece of work is private but the rest is not; new projects also offer the choice as you create them. When you turn it off we stop collecting, and you can delete what was already collected. You can also **export** it at any time, choose how long we keep it, and delete it outright without turning collection off. Deleting your account also deletes this data (see Section 7).
+
+**h. Product-analytics information.** We record a small number of **events** describing how the Service is used — pages viewed, features and AI coaches invoked, accounts created, and whether a prompt or button was shown and acted on — together with the page address, the referring URL, any campaign parameters in the link you arrived from, and coarse browser and device information. These events are processed on our behalf by **PostHog** (Section 5).
+
+   - **On our public website** (www.oghmere.com) these events carry **no cookie and no persistent identifier**. Analytics storage is switched off there, so each visit is counted on its own: we cannot recognise you between visits, and we cannot connect a visit to an account.
+   - **In the signed-in application** (app.oghmere.com) events are linked to a **pseudonymous account identifier** so that we can tell one person's session from another's and measure whether a feature actually works. We deliberately do **not** send your name or your email address to our analytics provider. This uses an analytics cookie and local storage (Section 9).
+   - **What we never send:** Your Content. No manuscript text, prompts, notes, file contents, or AI output is included in analytics events. Our anonymous try-it surface loads no analytics scripts at all.
+   - **Why we collect it:** to understand which features are used and where people get stuck, so that we can improve the Service (Section 3(g)). It is **not** used for advertising and is **not** sold.
 
 ## 3. How we use your information and our legal basis
 
@@ -120,12 +128,22 @@ We disclose personal information only as described here:
 | **Anthropic** | AI inference (processing Your Content) | United States |
 | **Google** | AI inference (processing Your Content) | United States / global |
 | **Stripe** | Payment processing | United States / Canada |
-| **Cloudflare** | Content delivery, email receiving, security | Global |
+| **Cloudflare** | Content delivery, security, email receiving, and object storage of uploads and media (Your Content) | Global |
 | **Resend** | Transactional email delivery | United States |
 | **Axiom** | Application logging and diagnostics | United States |
+| **PostHog** | Product analytics — usage events and identifiers, never Your Content | United States |
+| **Upstash** | Rate limiting and caching — identifiers only, never Your Content | Not published in our configuration |
+| **API Hero Ltd (Trigger.dev)** | Scheduled background jobs | Not published by the provider |
+| **Voyage AI Innovations, Inc.** | Text embeddings that power search and the knowledge features | Not published by the provider |
 | **AlphaAI Technologies Inc. dba Tavily** | Web search for the research features | United States |
 
 We may update this list as our providers change; the current list will be maintained in this Policy.
+
+> **Background jobs (Trigger.dev).** API Hero Ltd operates our scheduled background jobs. Its privacy policy permits use of data for research and development, including developing AI, so we limit what it can reach by design rather than relying on that policy: our jobs carry no Your Content in their payloads — each one queries our database directly for what it needs. We note plainly that those jobs execute on the provider's infrastructure with database access, so content may transit their compute even though it is never placed in a job payload.
+
+> **Data-use position of the embeddings provider (Voyage AI).** Voyage AI Innovations, Inc. receives the text we embed — not just the resulting vectors. Its standard terms would permit it to train on submitted content **by default**, so we have **opted out of that provision**, which its terms describe as meaning content we send after the opt-out is deleted once it has been processed for us. The opt-out has been in effect since **16 August 2026**. This is why Voyage is not an exception to the promise in Section 3: your content is not used to train its models.
+>
+> We do not state a processing region for Voyage because the provider does not publish one, and we will not publish a location we have not confirmed. Its incorporation in the United States is not the same thing as a processing location. We have asked Voyage to confirm this in writing and will update this table when they do.
 
 > ⚠️ **Data-use position of the research/search provider (Tavily).** Unlike the other providers above — which we select for terms that limit their use of submitted content to providing the service — **AlphaAI Technologies Inc. dba Tavily** (New York, United States) reserves broader rights over what is submitted to it. Its Terms of Service **§6.5** permit Tavily to use Customer Input to **train, improve and develop AI models**, and **§9.2** grants Tavily a **perpetual, irrevocable licence** covering derivative works and the improvement of its other products; its privacy policy states that query data may be used to improve future responses. Neither document draws a distinction between free and paid plans, so upgrading a plan does not change this. This is why research is a separate, opt-in surface with its own express, revocable consent (Section 3): it is the one place where text you submit may be used to train AI.
 
@@ -147,9 +165,15 @@ We retain personal information only as long as necessary for the purposes descri
 
 We use reasonable administrative, technical, and physical safeguards designed to protect personal information against loss, theft, and unauthorized access, use, or disclosure — including encryption in transit, access controls, and hashed credentials. No method of transmission or storage is completely secure, so we cannot guarantee absolute security. If we become aware of a breach that creates a real risk of significant harm, we will notify affected individuals and applicable authorities as required by law.
 
-## 9. Cookies and analytics
+## 9. Cookies, analytics, and your choices
 
-We use cookies and similar local-storage technologies that are strictly necessary to operate the Service (such as keeping you signed in) and functional cookies that remember your preferences. You can control cookies through your browser settings, but disabling necessary cookies may affect how the Service works. We use operational logging (Section 2d) for diagnostics and security rather than advertising, and **we do not use your information for third-party advertising**.
+**Strictly necessary and functional.** We use cookies and similar local-storage technologies that are strictly necessary to operate the Service — such as keeping you signed in — and functional ones that remember your preferences, such as your theme.
+
+**Analytics.** In the signed-in application we also set a first-party **analytics** cookie and use local storage to hold the pseudonymous identifier described in Section 2h, so that repeated visits can be recognised as the same person and a feature can be measured over time. **Our public website sets no analytics cookie at all** — analytics storage is switched off there, and nothing we set on that site persists after you leave it.
+
+**No advertising, no cross-site tracking.** We use no advertising cookies, no third-party ad networks, and no cross-site tracking or ad-retargeting pixels. We do not sell your personal information, and **we do not use your information for third-party advertising**. We use operational logging (Section 2d) for diagnostics and security rather than advertising.
+
+**Your choices.** You can clear or block cookies through your browser settings, and browser privacy features that block analytics scripts will prevent this collection — though disabling strictly necessary cookies may affect how the Service works. You may also ask us to stop processing your product-analytics data, or to delete it, by contacting our Privacy Officer (Section 10).
 
 ## 10. Your privacy rights
 
