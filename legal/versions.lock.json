@@ -1,0 +1,14 @@
+{
+  "aup": {
+    "version": "2026-08-26",
+    "sha": "f2e7ef58773b47dfac04ac77ef54f932c7d0af694fd8995f24756b762186564a"
+  },
+  "privacy": {
+    "version": "2026-09-02",
+    "sha": "3647995de8bddbe4a3706edcf18ffa0a10c7e927e03cf716c49c27695ef02b48"
+  },
+  "terms": {
+    "version": "2026-09-02",
+    "sha": "ff4210063d754fb4c67f73357d6b02f9047c7c3d59055956326f8f09d6cc5672"
+  }
+}
