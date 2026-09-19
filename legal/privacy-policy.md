@@ -1,9 +1,7 @@
 # Privacy Policy
 
-**Effective date:** 2026-09-02
-**Last updated:** 2026-09-02
-
-> ⚠️ **Beta — pending legal review.** This document is a draft provided for transparency during our beta. It is under review by legal counsel and may change before general availability.
+**Effective date:** 2026-09-19
+**Last updated:** 2026-09-19
 
 **1600978 B.C. LTD.**, carrying on business as Oghmere ("**Oghmere**", "**we**", "**us**", or "**our**"), a company incorporated in British Columbia, Canada, respects your privacy. This Privacy Policy explains what personal information we collect through the Oghmere platform and related websites, applications, and services (the "**Service**"), how we use and disclose it, and the choices and rights you have.
 

@@ -1,9 +1,7 @@
 # Terms of Service
 
-**Effective date:** 2026-09-02
-**Last updated:** 2026-09-02
-
-> ⚠️ **Beta — pending legal review.** This document is a draft provided for transparency during our beta. It is under review by legal counsel and may change before general availability.
+**Effective date:** 2026-09-19
+**Last updated:** 2026-09-19
 
 These Terms of Service (the "**Terms**") form a legally binding agreement between you ("**you**", "**your**", or the "**User**") and **1600978 B.C. LTD.**, a company incorporated under the *Business Corporations Act* (British Columbia) and carrying on business as Oghmere, with a registered office at **Suite 1008, 3003 Grandview Hwy, Unit 1, Vancouver, BC, Canada V5M 2E4** ("**Oghmere**", "**we**", "**us**", or "**our**").
 

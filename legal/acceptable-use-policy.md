@@ -1,9 +1,7 @@
 # Acceptable Use & AI Policy
 
-**Effective date:** 2026-08-26
-**Last updated:** 2026-08-26
-
-> ⚠️ **Beta — pending legal review.** This document is a draft provided for transparency during our beta. It is under review by legal counsel and may change before general availability.
+**Effective date:** 2026-09-19
+**Last updated:** 2026-09-19
 
 This Acceptable Use & AI Policy (the "**AUP**") supplements and is incorporated into the [Terms of Service](./terms-of-service.md) between you and **1600978 B.C. LTD.**, carrying on business as Oghmere ("**Oghmere**", "**we**", "**us**"). Capitalized terms have the meanings given in the Terms. If there is a conflict between this AUP and the Terms, the Terms govern except where this AUP is more specific.
 

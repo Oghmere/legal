@@ -1,9 +1,9 @@
 # Copyright & DMCA Policy
 
-**Effective date:** 2026-07-18
-**Last updated:** 2026-07-18
+**Effective date:** 2026-09-19
+**Last updated:** 2026-09-19
 
-> ⚠️ **Beta — pending legal review.** This document is a draft provided for transparency during our beta. It is under review by legal counsel and may change before general availability. **Formal designation of a DMCA agent with the U.S. Copyright Office is an outstanding administrative step**; until it completes, we accept and act on notices through the contact below.
+> **Formal designation of a DMCA agent with the U.S. Copyright Office is an outstanding administrative step**; until it completes, we accept and act on notices through the contact below.
 
 This policy explains how to tell us that content published on the Oghmere platform (the "**Service**") infringes your copyright, and what we do about it. It supplements the [Terms of Service](./terms-of-service.md) and the [Acceptable Use & AI Policy](./acceptable-use-policy.md).
 

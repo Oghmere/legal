@@ -1,14 +1,14 @@
 {
   "aup": {
-    "version": "2026-08-26",
-    "sha": "f2e7ef58773b47dfac04ac77ef54f932c7d0af694fd8995f24756b762186564a"
+    "version": "2026-09-19",
+    "sha": "03732bba30ce678474bce022672a16a66c256446d99398d9f06aa3f6937e4fc1"
   },
   "privacy": {
-    "version": "2026-09-02",
-    "sha": "3647995de8bddbe4a3706edcf18ffa0a10c7e927e03cf716c49c27695ef02b48"
+    "version": "2026-09-19",
+    "sha": "779854d1f20e5e019633b552e403fe3a0b06aae607cc708569705a98ca8ccd64"
   },
   "terms": {
-    "version": "2026-09-02",
-    "sha": "ff4210063d754fb4c67f73357d6b02f9047c7c3d59055956326f8f09d6cc5672"
+    "version": "2026-09-19",
+    "sha": "44606a7c91d1788cc1808932931965cdf910923339ef226a3827aa89af804988"
   }
 }
