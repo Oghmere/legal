@@ -16,7 +16,7 @@ We don't sell your content, and we never use it to train any AI model — ours o
 Sharing only happens when you choose it. You control who sees what, and you can turn sharing off anytime.
 
 ### 🤖 About the AI
-When you use AI features, your content is sent to trusted AI providers (like Anthropic and Google) to do the work — this may happen in the U.S. AI can be wrong, so give its output a human review before you rely on it. It's a writing coach, not professional advice.
+When you use AI features, your content is sent to trusted AI providers (like Anthropic) to do the work — this may happen in the U.S. AI can be wrong, so give its output a human review before you rely on it. It's a writing coach, not professional advice.
 
 ### 🔒 Your privacy
 We collect your account info, the content you create, payment details (through Stripe), and basic usage data — to run the Service, support you, and keep it secure. You can access, correct, or delete your information, or withdraw consent, anytime by contacting our Privacy Officer. We follow BC's privacy law (PIPA) and Canada's PIPEDA.

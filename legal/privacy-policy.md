@@ -1,7 +1,7 @@
 # Privacy Policy
 
-**Effective date:** 2026-09-19
-**Last updated:** 2026-09-19
+**Effective date:** 2026-09-30
+**Last updated:** 2026-09-30
 
 **1600978 B.C. LTD.**, carrying on business as Oghmere ("**Oghmere**", "**we**", "**us**", or "**our**"), a company incorporated in British Columbia, Canada, respects your privacy. This Privacy Policy explains what personal information we collect through the Oghmere platform and related websites, applications, and services (the "**Service**"), how we use and disclose it, and the choices and rights you have.
 
@@ -18,7 +18,7 @@ We handle personal information in accordance with British Columbia's **Personal 
 - **Product analytics:** we measure how the Service is used — pages viewed, features used, whether a prompt was shown and acted on. On our public website this is done with **no cookie and no identifier at all**; in the app it is tied to a pseudonymous account id — never your name or email, and never your content. No ads, no ad networks, no cross-site tracking. *(§2h, §9)*
 - **Why:** to run the Service, process your content with AI when you ask, handle payments, support you, and keep things secure. *(§3)*
 - **We don't sell your data**, and we never use your content to train any AI model — ours or anyone else's. The one exception is the optional research/search feature: text you submit *to it* goes to a third-party search provider (Tavily) that may train on it — opt-in only, and it changes nothing for the rest of your content. *(§3, §5)*
-- **AI processing:** content you run through AI features goes to providers like Anthropic and Google, which may process it in the United States. *(§4, §6)*
+- **AI processing:** content you run through AI features goes to providers like Anthropic, which may process it in the United States. *(§4, §6)*
 - **Who sees it:** only providers that operate the Service for us, whoever you choose to share with, and authorities where the law requires. *(§5)*
 - **Where it lives:** stored and processed in Canada, the U.S., and other countries where our providers operate. *(§6)*
 - **Your rights:** access, correct, delete, and withdraw consent — just contact our Privacy Officer. *(§10)*
@@ -44,7 +44,7 @@ Email: **privacy@oghmere.com**
 
 We collect personal information that you provide, that is generated as you use the Service, and that we receive from service providers acting on our behalf.
 
-**a. Account and profile information.** Name, email address, password (stored in hashed form), and account settings when you register.
+**a. Account and profile information.** Name, email address, password (stored in hashed form), and account settings when you register. You may instead create or sign in to your account through a third-party identity provider — **Sign in with Google** or **Sign in with GitHub**. If you do, we receive from that provider your name, your email address, and, where available, your profile picture, and we do not receive or store your password for that provider. See Section 5.
 
 **b. Your Content.** The manuscripts, notes, prompts, files, project data, and other material you create, upload, or generate through the Service. Your Content may itself contain personal information that you choose to include.
 
@@ -124,7 +124,8 @@ We disclose personal information only as described here:
 | **Fly.io** | Application hosting / infrastructure | United States / global |
 | **Neon** | Database hosting (account data, Your Content) | United States |
 | **Anthropic** | AI inference (processing Your Content) | United States |
-| **Google** | AI inference (processing Your Content) | United States / global |
+| **Google** | Authentication / identity provider — only if you choose Sign in with Google; exchanges your name, email address, and profile picture, never Your Content | United States / global |
+| **GitHub** | Authentication / identity provider — only if you choose Sign in with GitHub; exchanges your name, email address, and profile picture, never Your Content | United States |
 | **Stripe** | Payment processing | United States / Canada |
 | **Cloudflare** | Content delivery, security, email receiving, and object storage of uploads and media (Your Content) | Global |
 | **Resend** | Transactional email delivery | United States |
