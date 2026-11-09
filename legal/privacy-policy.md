@@ -1,7 +1,7 @@
 # Privacy Policy
 
-**Effective date:** 2026-09-30
-**Last updated:** 2026-09-30
+**Effective date:** 2026-11-08
+**Last updated:** 2026-11-08
 
 **1600978 B.C. LTD.**, carrying on business as Oghmere ("**Oghmere**", "**we**", "**us**", or "**our**"), a company incorporated in British Columbia, Canada, respects your privacy. This Privacy Policy explains what personal information we collect through the Oghmere platform and related websites, applications, and services (the "**Service**"), how we use and disclose it, and the choices and rights you have.
 
@@ -69,7 +69,7 @@ We collect personal information that you provide, that is generated as you use t
 **h. Product-analytics information.** We record a small number of **events** describing how the Service is used — pages viewed, features and AI coaches invoked, accounts created, and whether a prompt or button was shown and acted on — together with the page address, the referring URL, any campaign parameters in the link you arrived from, coarse browser and device information, and your approximate location (country level, derived from your IP address). These events are processed on our behalf by **PostHog** (Section 5).
 
    - **On our public website** (www.oghmere.com) these events carry **no cookie and no persistent identifier**. Analytics storage is switched off there, so each visit is counted on its own: we cannot recognise you between visits, and we cannot connect a visit to an account.
-   - **In the signed-in application** (app.oghmere.com) events are linked to a **pseudonymous account identifier** so that we can tell one person's session from another's and measure whether a feature actually works. We deliberately do **not** send your name or your email address to our analytics provider. This uses an analytics cookie and local storage (Section 9).
+   - **In the signed-in application** (app.oghmere.com) events are linked to a **pseudonymous account identifier** so that we can tell one person's session from another's and measure whether a feature actually works. This includes showing some accounts a different version of a screen or message and comparing how each performs, so we can keep the version that works better. We deliberately do **not** send your name or your email address to our analytics provider. This uses an analytics cookie and local storage (Section 9).
    - **What we never send:** Your Content. No manuscript text, prompts, notes, file contents, or AI output is included in analytics events. Our anonymous try-it surface loads no analytics scripts at all.
    - **Why we collect it:** to understand which features are used and where people get stuck, so that we can improve the Service (Section 3(g)). It is **not** used for advertising and is **not** sold.
 
@@ -130,7 +130,7 @@ We disclose personal information only as described here:
 | **Cloudflare** | Content delivery, security, email receiving, and object storage of uploads and media (Your Content) | Global |
 | **Resend** | Transactional email delivery | United States |
 | **Axiom** | Application logging and diagnostics | United States |
-| **PostHog** | Product analytics — usage events and identifiers, never Your Content | United States |
+| **PostHog** | Product analytics — usage events and identifiers, including which version of a screen or message you were shown, never Your Content | United States |
 | **Upstash** | Rate limiting and caching — identifiers only, never Your Content | Not published in our configuration |
 | **API Hero Ltd (Trigger.dev)** | Scheduled background jobs | Not published by the provider |
 | **Voyage AI Innovations, Inc.** | Text embeddings that power search and the knowledge features | Not published by the provider |
